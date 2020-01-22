@@ -1,6 +1,8 @@
 from django.shortcuts import render
 from django.http import HttpResponse
 
+#quick test
+
 def index(request):
     return HttpResponse("Rango says hey there partner! <a href='/rango/about/'>About</a>")
 
