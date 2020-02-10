@@ -15,7 +15,7 @@ def populate():
 
     python_pages = [
         {"title": "Official Python Tutorial",
-         "url":"http://docs.python.org/2/tutorial/",
+         "url":"http://docs.python.org/3/tutorial/",
          "views": 2},
         {"title":"How to Think like a Computer Scientist",
          "url":"http://www.greenteapress.com/thinkpython/",
@@ -27,7 +27,7 @@ def populate():
 
     django_pages=[
         {"title":"Official Django Tutorial",
-         "url":"https://docs.djangoproject.com/en/1.9/intro/tutorial01/",
+         "url":"https://docs.djangoproject.com/en/2.1/intro/tutorial01/",
          "views": 7},
         {"title":"Django Rocks",
          "url":"http://www.djangorocks.com/",
